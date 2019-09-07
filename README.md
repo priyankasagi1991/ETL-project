@@ -1,2 +1,0 @@
-# ETL-project
-Homework-Project
